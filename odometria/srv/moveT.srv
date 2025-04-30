@@ -1,0 +1,3 @@
+float32 a  # Distancia a mover
+---
+bool success  # Indica si el movimiento se realizó con éxito

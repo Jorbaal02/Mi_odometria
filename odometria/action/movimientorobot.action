@@ -1,0 +1,11 @@
+# Objetivo (Goal)
+int8 tipo_movimiento  # 0 = lineal, 1 = rotacional
+float32 valor          # distancia en metros o ángulo en radianes
+
+---
+# Resultado (Result)
+bool exito
+
+---
+# Feedback (Feedback)
+float32 progreso       # porcentaje o valor actual del avance
